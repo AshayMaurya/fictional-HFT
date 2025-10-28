@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.so
+*.pyd
+*.dll
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files (optional, if you don't want to commit large data files)
+data/*.csv
