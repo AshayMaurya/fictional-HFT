@@ -1,4 +1,4 @@
-# C++ High-Frequency Trading Terminal Simulation
+# High-Frequency Trading Terminal Simulation
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B%20%26%20Python-blue.svg)
 ![Build](https://img.shields.io/badge/Build-CMake-green.svg)
