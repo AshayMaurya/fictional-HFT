@@ -1,7 +1,6 @@
 # C++ High-Frequency Trading Terminal Simulation
 
-![Language](https://img.shields.io/badge/<img width="725" height="368" alt="project_img" src="https://github.com/user-attachments/assets/626e7097-1fee-41e0-8b62-6c9714c496e2" />
-Language-C%2B%2B%20%26%20Python-blue.svg)
+![Language](https://img.shields.io/badge/Language-C%2B%2B%20%26%20Python-blue.svg)
 ![Build](https://img.shields.io/badge/Build-CMake-green.svg)
 
 This project demonstrates a high-performance trading algorithm simulation. It uses Python for realistic, synthetic market data generation and a pure C++ application for processing the data and simulating a live trading environment directly in the terminal.
@@ -88,3 +87,5 @@ Execute the compiled application from the **project's root directory**.
 ```
 
 You will now see the live trade signals printed to your terminal.
+
+<img width="725" height="368" alt="project_img" src="https://github.com/user-attachments/assets/3ab0bd0e-f788-4ca9-96ed-69aeff3019b6" />
